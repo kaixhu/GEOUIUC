@@ -1,5 +1,4 @@
-# Group 3
-Group Name: Geo-UIUC (temporary)
+## GeoUIUC
 
 [MVP Link](https://docs.google.com/document/d/1xJO01AFZFttQtqiHmHdxW5RcTaI7HjnI/edit?usp=drivesdk&ouid=104942203503972495373&rtpof=true&sd=true)
 
